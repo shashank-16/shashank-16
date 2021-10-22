@@ -2,7 +2,6 @@
 <img height="350px" align="right" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
-<h2>Portfolio Template</h2>
 
 
-<strong>:crown: advantages</strong>
+
