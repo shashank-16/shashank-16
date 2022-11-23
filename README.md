@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Shashank Chaurasia (Sasha)
+# WhatUps Mankind 👋 , I'm Shashank Chaurasia (Sasha)
 ![Profile views](https://gpvc.arturio.dev/shashank-16)  
 
 * 🎓 I'm currently a final year student at Greater Noida Institute of Technology, Greater Noida UttarPradesh India.
