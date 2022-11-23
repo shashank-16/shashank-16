@@ -32,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-16&theme=dark)](https://github.com/shashank-16/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines="Why are going come on Discord Lets talk the only place i feel free "!!!&center=true&color="FFC0CB")](https://github.com/shashank-16)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Why+are+you+going+come+on+Discord+Lets+talk+the+only+place+i+feel+free+to+talk!!!&center=true&color="FFC0CB")](https://https://discord.com/channels/@me)
