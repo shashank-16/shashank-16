@@ -1,4 +1,4 @@
-# WhatUps Mankind 👋 , I'm Shashank Chaurasia (sasha) `_`
+# Hi there 👋 , I'm Shashank Chaurasia Aka Kashmiri
 ![Profile views](https://gpvc.arturio.dev/shashank-16)  
 
 * 🎓 I'm currently a final year student at Greater Noida Institute of Technology, Greater Noida UttarPradesh India.
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=shashank-16&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=tanishagarg1803&theme=react-dark)
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=shashank-16&theme=dark&hide_border=false" width = 500>
 <img src = "https://github-readme-stats.vercel.app/api?username=shashank-16&show_icons=true&theme=dark" width = 500>
@@ -32,4 +32,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-16&theme=dark)](https://github.com/shashank-16/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!&center=true&color="000000")](https://github.com/shashank-16)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Why are going come on Discord Lets talk the only place i feel free !!!&center=true&color="FFC0CB")](https://github.com/shashank-16)
