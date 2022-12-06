@@ -11,9 +11,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shashank-chaurasia-168439197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha-garg-ba95a81a9" height="30" width="40" /></a>
   <a href="https://twitter.com/shashan42478283?t=3nklO7VKd_z0Xt_T2wnzXw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twit" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/tanisha1803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanisha1803" height="30" width="40" /></a> -->
-<!-- <a href="https://codeforces.com/profile/tanisha1803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tanisha1803" height="30" width="40" /></a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/tanisha1803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanisha1803" height="30" width="40" /></a> -->
 </p>
 
 
