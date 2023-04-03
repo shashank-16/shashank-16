@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/shashank-16)
 
 * 🎓 I'm currently a final year student at Greater Noida Institute of Technology, Greater Noida UttarPradesh India.
-* 📚 Currently learning How to talk Girls .
+* 📚 Currently learning Unreal and Laravel .
 * ⚡️ Understanding and practicing DSA everyday and learning New Technology .
 * 🔎 I'm looking forward to contribute to some open source projects.
 * 💬 Ask me about anything [here!](https://github.com/shashank-16/shashank-16/issues)!
