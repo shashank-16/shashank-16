@@ -1,7 +1,7 @@
 # WhatUps Mankind 👋 , I'm Shashank Chaurasia (Sasha)
 ![Profile views](https://gpvc.arturio.dev/shashank-16)
 
-* 📚 Currently learning Unreal and Laravel .
+* 📚 Currently Software Design .
 * ⚡️ Understanding and practicing DSA everyday and learning New Technology .
 * 🔎 I'm looking forward to contribute to some open source projects.
 * 💬 Ask me about anything [here!](https://github.com/shashank-16/shashank-16/issues)!
